@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/Comerunandkillfree/wtfstudio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ My name is Kamran Vakilazad. A Painter, designer an independant artist based in Tehran.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+#### My intrests
 
 # Header 1
 ## Header 2
